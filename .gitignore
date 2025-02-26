@@ -8,3 +8,7 @@ ppo_car_racing_V2.zip
 ppo_car_racing.zip
 self driving car RL .ipynb
 universe.ipynb
+scriptoria_game\gui\__pycache__
+scriptoria_game\__pycache__
+scriptoria_game\game\__pycache__
+scriptoria_game\models\__pycache__
